@@ -76,15 +76,15 @@ data/processed/     processed outputs
 
 ## Main Scripts
 
-### `R/01_make_df_npi.R`
+### `R/01_prepare_npi_locations.R`
 
 Builds provider practice location file and geocodes addresses.
 
-### `R/02_run_geo_family_2018.R`
+### `R/02_calculate_travel_time.R`
 
 Joins patient ZIP locations to providers and calculates travel distance/time.
 
-### `R/03_make_df_summary.R`
+### `R/03_create_summary_table.R`
 
 Creates final dashboard summary tables.
 
