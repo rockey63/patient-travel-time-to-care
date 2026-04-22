@@ -146,7 +146,12 @@ This project demonstrates how claims data can be transformed into actionable acc
 
 ---
 
-## Author
+## Author & Project Team
 
-Eugene Shin  
-Healthcare Analytics | Medicaid Policy Research | Data Science
+**Eugene Shin**  
+Healthcare Analytics | Medicaid Policy Research | Data Science  
+
+Project completed in collaboration with:
+
+- **Joseph Benitez, PhD** (Principal Investigator)  
+- **Christopher Delcher, PhD**
