@@ -1,9 +1,15 @@
 # Patient Travel Time to Care  
 ### Kentucky Medicaid Managed Care Network Access Analysis (2018–2022)
 
+Analyzed Kentucky Medicaid claims data to measure patient travel burden to care using provider geolocation and routing methods.
+
+Built dashboard-ready outputs for network adequacy monitoring and healthcare access reporting.
+
 This repository contains R scripts used to estimate patient travel distance and travel time to primary care providers using Kentucky Medicaid claims data and provider NPI practice address data.
 
-The project was developed as part of a University of Kentucky research initiative evaluating healthcare access, provider network adequacy, and geographic barriers within Kentucky Medicaid Managed Care Organizations (MCOs). Findings supported biannual reporting on compliance with Kentucky Medicaid access standards.
+Developed as part of a University of Kentucky research initiative focused on healthcare access, provider network adequacy, and geographic barriers within Kentucky Medicaid Managed Care Organizations (MCOs).
+
+Supported biannual Medicaid access standard reporting for Kentucky managed care oversight.
 
 ---
 
