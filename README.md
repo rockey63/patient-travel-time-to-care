@@ -13,6 +13,16 @@ Supported biannual Medicaid access standard reporting for Kentucky managed care 
 
 ---
 
+## Interactive Dashboard
+
+Public Tableau dashboard built from the summary outputs in this repository.
+
+[View Tableau Dashboard](https://public.tableau.com/app/profile/ipop/viz/CHFS/Summary)
+
+![Dashboard Preview](docs/tableau_dashboard_preview.png)
+
+---
+
 ## Project Background
 
 Kentucky Medicaid requires participating Managed Care Organizations to maintain adequate provider networks under state regulations, including geographic access standards for primary care.
