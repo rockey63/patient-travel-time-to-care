@@ -3,7 +3,7 @@
 
 This repository contains R scripts used to estimate patient travel distance and travel time to primary care providers using Kentucky Medicaid claims data and provider NPI practice address data.
 
-The project was developed as part of a University of Kentucky research initiative evaluating healthcare access, provider network adequacy, and geographic barriers within Kentucky Medicaid Managed Care Organizations (MCOs). Findings supported biannual reporting on compliance with Kentucky Medicaid access standards. :contentReference[oaicite:0]{index=0}
+The project was developed as part of a University of Kentucky research initiative evaluating healthcare access, provider network adequacy, and geographic barriers within Kentucky Medicaid Managed Care Organizations (MCOs). Findings supported biannual reporting on compliance with Kentucky Medicaid access standards.
 
 ---
 
@@ -18,7 +18,7 @@ This project examined whether Medicaid members had reasonable geographic access 
 - changes over time (2018–2022)  
 - variation across provider classifications and plans  
 
-The analysis supports monitoring of provider network adequacy and healthcare accessibility across Kentucky. :contentReference[oaicite:1]{index=1}
+The analysis supports monitoring of provider network adequacy and healthcare accessibility across Kentucky.
 
 ---
 
@@ -63,8 +63,6 @@ This workflow was designed to answer questions such as:
 5. Calculate patient-to-provider travel distance and travel duration  
 6. Summarize results by provider classification and year  
 7. Export dashboard-ready tables
-
-:contentReference[oaicite:2]{index=2}
 
 ---
 
