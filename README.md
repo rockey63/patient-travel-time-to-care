@@ -92,7 +92,9 @@ Creates final dashboard summary tables.
 
 ## Main Output
 
-`data/processed/4.1 df_summary.csv`
+`data/processed/summary_dashboard_output.csv`
+
+Aggregated dashboard-ready summary table generated from the claims-based travel access analysis.
 
 Summary file containing:
 
@@ -101,6 +103,10 @@ Summary file containing:
 - travel distance statistics  
 - travel duration statistics  
 - year-over-year provider access trends  
+
+Output file uses long-format structure for dashboard ingestion and visualization.
+
+Only aggregated outputs are included in this public repository.
 
 ---
 
