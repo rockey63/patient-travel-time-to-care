@@ -1,0 +1,1392 @@
+"file_name","core_name","rdata_file_name","CLASSIFICATION","YEAR","Key","Type","Value"
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","address_n","Count",115
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","AGE_RANGE_DFS","00 - 04",17744
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","AGE_RANGE_DFS","05 - 09",13024
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","AGE_RANGE_DFS","10 - 14",10863
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","AGE_RANGE_DFS","15 - 19",7012
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","AGE_RANGE_DFS","20 - 24",2303
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","AGE_RANGE_DFS","25 - 29",3129
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","AGE_RANGE_DFS","30 - 34",3664
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","AGE_RANGE_DFS","35 - 39",4384
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","AGE_RANGE_DFS","40 - 44",4877
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","AGE_RANGE_DFS","45 - 49",5796
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","AGE_RANGE_DFS","50 - 54",7328
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","AGE_RANGE_DFS","55 - 59",7874
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","AGE_RANGE_DFS","60 - 64",7162
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","BEN_ID_n","Count",28768
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","CLAIM_GUID_n","Count",95141
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","Distance","1st Qu.",9.54
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","Distance","3rd Qu.",45.03
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","Distance","Max.",4391.04
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","Distance","Mean",52.98
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","Distance","Median",23.93
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","Distance","Min.",0.08
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","Distance","NA's",876
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","Duration","1st Qu.",11
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","Duration","3rd Qu.",44.54
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","Duration","Max.",2917.73
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","Duration","Mean",44.9
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","Duration","Median",23.79
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","Duration","Min.",0.25
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","Duration","NA's",876
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","GENDER","F",49153
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","GENDER","M",46007
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","NPI_n","Count",117
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","RACE","Black",4708
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","RACE","Not Provided",15381
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","RACE","Other",1481
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","RACE","White",73590
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","row_n","Count",249279
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","zip_add_combination_n","Count",2287
+"2. NPI/2.5 NPI_clinic_18.csv","clinic_18","3. df_geo/3.5 df_geo_clinic_18.RData","Clinic/Center","2018","ZIP_n","Count",745
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","address_n","Count",130
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","AGE_RANGE_DFS","00 - 04",17139
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","AGE_RANGE_DFS","05 - 09",11763
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","AGE_RANGE_DFS","10 - 14",9693
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","AGE_RANGE_DFS","15 - 19",6344
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","AGE_RANGE_DFS","20 - 24",2172
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","AGE_RANGE_DFS","25 - 29",2721
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","AGE_RANGE_DFS","30 - 34",4045
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","AGE_RANGE_DFS","35 - 39",4523
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","AGE_RANGE_DFS","40 - 44",5213
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","AGE_RANGE_DFS","45 - 49",6044
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","AGE_RANGE_DFS","50 - 54",7139
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","AGE_RANGE_DFS","55 - 59",8763
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","AGE_RANGE_DFS","60 - 64",7856
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","BEN_ID_n","Count",28506
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","CLAIM_GUID_n","Count",93406
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","Distance","1st Qu.",9.54
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","Distance","3rd Qu.",45.69
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","Distance","Max.",4391.04
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","Distance","Mean",55.95
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","Distance","Median",25.4
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","Distance","Min.",0.08
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","Distance","NA's",786
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","Duration","1st Qu.",11.67
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","Duration","3rd Qu.",45.91
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","Duration","Max.",2917.73
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","Duration","Mean",46.98
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","Duration","Median",25.83
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","Duration","Min.",0.25
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","Duration","NA's",786
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","GENDER","F",48675
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","GENDER","M",44740
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","NPI_n","Count",132
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","RACE","Black",4404
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","RACE","Not Provided",15732
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","RACE","Other",1474
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","RACE","White",71805
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","row_n","Count",245853
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","zip_add_combination_n","Count",2536
+"2. NPI/2.5 NPI_clinic_19.csv","clinic_19","3. df_geo/3.5 df_geo_clinic_19.RData","Clinic/Center","2019","ZIP_n","Count",742
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","address_n","Count",149
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","AGE_RANGE_DFS","00 - 04",12638
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","AGE_RANGE_DFS","05 - 09",7458
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","AGE_RANGE_DFS","10 - 14",6844
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","AGE_RANGE_DFS","15 - 19",5081
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","AGE_RANGE_DFS","20 - 24",1861
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","AGE_RANGE_DFS","25 - 29",2383
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","AGE_RANGE_DFS","30 - 34",3566
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","AGE_RANGE_DFS","35 - 39",4184
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","AGE_RANGE_DFS","40 - 44",5118
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","AGE_RANGE_DFS","45 - 49",5427
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","AGE_RANGE_DFS","50 - 54",6649
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","AGE_RANGE_DFS","55 - 59",8533
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","AGE_RANGE_DFS","60 - 64",7688
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","BEN_ID_n","Count",24251
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","CLAIM_GUID_n","Count",77421
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","Distance","1st Qu.",9.54
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","Distance","3rd Qu.",45.04
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","Distance","Max.",4391.04
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","Distance","Mean",54.28
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","Distance","Median",24.97
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","Distance","Min.",0.08
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","Distance","NA's",805
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","Duration","1st Qu.",11.48
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","Duration","3rd Qu.",45.28
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","Duration","Max.",2917.73
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","Duration","Mean",45.75
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","Duration","Median",25.19
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","Duration","Min.",0.25
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","Duration","NA's",805
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","GENDER","F",40855
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","GENDER","M",36575
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","NPI_n","Count",152
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","RACE","Black",3649
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","RACE","Not Provided",13775
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","RACE","Other",2212
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","RACE","White",57794
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","row_n","Count",202762
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","zip_add_combination_n","Count",2634
+"2. NPI/2.5 NPI_clinic_20.csv","clinic_20","3. df_geo/3.5 df_geo_clinic_20.RData","Clinic/Center","2020","ZIP_n","Count",728
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","address_n","Count",159
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","AGE_RANGE_DFS","00 - 04",17803
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","AGE_RANGE_DFS","05 - 09",10122
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","AGE_RANGE_DFS","10 - 14",8969
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","AGE_RANGE_DFS","15 - 19",6458
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","AGE_RANGE_DFS","20 - 24",2381
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","AGE_RANGE_DFS","25 - 29",2021
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","AGE_RANGE_DFS","30 - 34",3280
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","AGE_RANGE_DFS","35 - 39",3730
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","AGE_RANGE_DFS","40 - 44",4735
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","AGE_RANGE_DFS","45 - 49",4603
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","AGE_RANGE_DFS","50 - 54",6079
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","AGE_RANGE_DFS","55 - 59",7760
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","AGE_RANGE_DFS","60 - 64",6726
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","BEN_ID_n","Count",27238
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","CLAIM_GUID_n","Count",84649
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","Distance","1st Qu.",10.78
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","Distance","3rd Qu.",49.78
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","Distance","Max.",4391.04
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","Distance","Mean",57.97
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","Distance","Median",25.79
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","Distance","Min.",0.08
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","Distance","NA's",872
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","Duration","1st Qu.",14.22
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","Duration","3rd Qu.",47.01
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","Duration","Max.",2917.73
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","Duration","Mean",48.58
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","Duration","Median",26.98
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","Duration","Min.",0.25
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","Duration","NA's",872
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","GENDER","F",43860
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","GENDER","M",40807
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","NPI_n","Count",163
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","RACE","Black",3980
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","RACE","Not Provided",14736
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","RACE","Other",3903
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","RACE","White",62048
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","row_n","Count",243491
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","zip_add_combination_n","Count",2659
+"2. NPI/2.5 NPI_clinic_21.csv","clinic_21","3. df_geo/3.5 df_geo_clinic_21.RData","Clinic/Center","2021","ZIP_n","Count",742
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","address_n","Count",209
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","AGE_RANGE_DFS","00 - 04",18103
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","AGE_RANGE_DFS","05 - 09",10730
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","AGE_RANGE_DFS","10 - 14",9023
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","AGE_RANGE_DFS","15 - 19",6735
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","AGE_RANGE_DFS","20 - 24",2899
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","AGE_RANGE_DFS","25 - 29",2179
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","AGE_RANGE_DFS","30 - 34",3381
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","AGE_RANGE_DFS","35 - 39",3594
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","AGE_RANGE_DFS","40 - 44",4926
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","AGE_RANGE_DFS","45 - 49",4532
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","AGE_RANGE_DFS","50 - 54",5668
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","AGE_RANGE_DFS","55 - 59",6896
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","AGE_RANGE_DFS","60 - 64",6259
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","BEN_ID_n","Count",27765
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","CLAIM_GUID_n","Count",84911
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","Distance","1st Qu.",10.74
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","Distance","3rd Qu.",54.33
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","Distance","Max.",4391.04
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","Distance","Mean",60.93
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","Distance","Median",26.67
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","Distance","Min.",0.03
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","Distance","NA's",691
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","Duration","1st Qu.",14.22
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","Duration","3rd Qu.",50.02
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","Duration","Max.",2917.73
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","Duration","Mean",50.73
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","Duration","Median",27.27
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","Duration","Min.",0.08
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","Duration","NA's",691
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","GENDER","F",43616
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","GENDER","M",41309
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","NPI_n","Count",214
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","RACE","Black",4537
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","RACE","Not Provided",12964
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","RACE","Other",5002
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","RACE","White",62422
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","row_n","Count",262209
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","zip_add_combination_n","Count",3010
+"2. NPI/2.5 NPI_clinic_22.csv","clinic_22","3. df_geo/3.5 df_geo_clinic_22.RData","Clinic/Center","2022","ZIP_n","Count",751
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","address_n","Count",835
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","AGE_RANGE_DFS","00 - 04",97504
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","AGE_RANGE_DFS","05 - 09",219185
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","AGE_RANGE_DFS","10 - 14",190530
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","AGE_RANGE_DFS","15 - 19",129944
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","AGE_RANGE_DFS","20 - 24",56514
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","AGE_RANGE_DFS","25 - 29",59869
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","AGE_RANGE_DFS","30 - 34",50802
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","AGE_RANGE_DFS","35 - 39",45951
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","AGE_RANGE_DFS","40 - 44",35611
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","AGE_RANGE_DFS","45 - 49",32336
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","AGE_RANGE_DFS","50 - 54",29048
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","AGE_RANGE_DFS","55 - 59",24648
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","AGE_RANGE_DFS","60 - 64",17811
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","BEN_ID_n","Count",473225
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","CLAIM_GUID_n","Count",989741
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","Distance","1st Qu.",10.07
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","Distance","3rd Qu.",59.12
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","Distance","Max.",9347.27
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","Distance","Mean",95.34
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","Distance","Median",24.57
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","Distance","Min.",0.03
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","Distance","NA's",13246
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","Duration","1st Qu.",12.19
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","Duration","3rd Qu.",50.68
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","Duration","Max.",6439.91
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","Duration","Mean",73.41
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","Duration","Median",24.88
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","Duration","Min.",0.07
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","Duration","NA's",13246
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","GENDER","F",557281
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","GENDER","M",432472
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","NPI_n","Count",1090
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","RACE","Black",114349
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","RACE","Not Provided",118082
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","RACE","Other",28940
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","RACE","White",728382
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","row_n","Count",3381941
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","zip_add_combination_n","Count",40743
+"2. NPI/2.3 NPI_dentist_18.csv","dentist_18","3. df_geo/3.3 df_geo_dentist_18.RData","Dentist","2018","ZIP_n","Count",1184
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","address_n","Count",837
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","AGE_RANGE_DFS","00 - 04",95549
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","AGE_RANGE_DFS","05 - 09",221664
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","AGE_RANGE_DFS","10 - 14",196302
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","AGE_RANGE_DFS","15 - 19",129321
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","AGE_RANGE_DFS","20 - 24",53031
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","AGE_RANGE_DFS","25 - 29",54708
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","AGE_RANGE_DFS","30 - 34",47737
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","AGE_RANGE_DFS","35 - 39",41858
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","AGE_RANGE_DFS","40 - 44",33475
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","AGE_RANGE_DFS","45 - 49",29290
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","AGE_RANGE_DFS","50 - 54",26074
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","AGE_RANGE_DFS","55 - 59",23538
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","AGE_RANGE_DFS","60 - 64",16812
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","BEN_ID_n","Count",460648
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","CLAIM_GUID_n","Count",969343
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","Distance","1st Qu.",10.25
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","Distance","3rd Qu.",59.5
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","Distance","Max.",14142.1
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","Distance","Mean",97.25
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","Distance","Median",25.5
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","Distance","Min.",0.03
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","Distance","NA's",12085
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","Duration","1st Qu.",12.28
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","Duration","3rd Qu.",50.89
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","Duration","Max.",9874.31
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","Duration","Mean",74.67
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","Duration","Median",25.58
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","Duration","Min.",0.07
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","Duration","NA's",12085
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","GENDER","F",542476
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","GENDER","M",426883
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","NPI_n","Count",1073
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","RACE","Black",113090
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","RACE","Not Provided",117159
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","RACE","Other",29968
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","RACE","White",709142
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","row_n","Count",3282798
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","zip_add_combination_n","Count",40409
+"2. NPI/2.3 NPI_dentist_19.csv","dentist_19","3. df_geo/3.3 df_geo_dentist_19.RData","Dentist","2019","ZIP_n","Count",1135
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","address_n","Count",805
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","AGE_RANGE_DFS","00 - 04",71082
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","AGE_RANGE_DFS","05 - 09",161400
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","AGE_RANGE_DFS","10 - 14",141236
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","AGE_RANGE_DFS","15 - 19",96338
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","AGE_RANGE_DFS","20 - 24",41912
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","AGE_RANGE_DFS","25 - 29",42857
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","AGE_RANGE_DFS","30 - 34",39991
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","AGE_RANGE_DFS","35 - 39",34914
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","AGE_RANGE_DFS","40 - 44",29171
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","AGE_RANGE_DFS","45 - 49",24765
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","AGE_RANGE_DFS","50 - 54",22238
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","AGE_RANGE_DFS","55 - 59",20587
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","AGE_RANGE_DFS","60 - 64",15502
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","BEN_ID_n","Count",386694
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","CLAIM_GUID_n","Count",741979
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","Distance","1st Qu.",10.4
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","Distance","3rd Qu.",57.74
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","Distance","Max.",9243.82
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","Distance","Mean",89.98
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","Distance","Median",25.4
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","Distance","Min.",0.03
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","Distance","NA's",9182
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","Duration","1st Qu.",12.41
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","Duration","3rd Qu.",49.81
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","Duration","Max.",6381
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","Duration","Mean",69.23
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","Duration","Median",25.22
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","Duration","Min.",0.07
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","Duration","NA's",9182
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","GENDER","F",420291
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","GENDER","M",321701
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","GENDER","U",1
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","NPI_n","Count",1027
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","RACE","Black",78745
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","RACE","Not Provided",96046
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","RACE","Other",47719
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","RACE","White",519483
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","row_n","Count",2574400
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","zip_add_combination_n","Count",35921
+"2. NPI/2.3 NPI_dentist_20.csv","dentist_20","3. df_geo/3.3 df_geo_dentist_20.RData","Dentist","2020","ZIP_n","Count",1077
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","address_n","Count",753
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","AGE_RANGE_DFS","00 - 04",83309
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","AGE_RANGE_DFS","05 - 09",190765
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","AGE_RANGE_DFS","10 - 14",161957
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","AGE_RANGE_DFS","15 - 19",108131
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","AGE_RANGE_DFS","20 - 24",45276
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","AGE_RANGE_DFS","25 - 29",46215
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","AGE_RANGE_DFS","30 - 34",44606
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","AGE_RANGE_DFS","35 - 39",38341
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","AGE_RANGE_DFS","40 - 44",32320
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","AGE_RANGE_DFS","45 - 49",26177
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","AGE_RANGE_DFS","50 - 54",24484
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","AGE_RANGE_DFS","55 - 59",22305
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","AGE_RANGE_DFS","60 - 64",17534
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","BEN_ID_n","Count",426105
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","CLAIM_GUID_n","Count",841415
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","Distance","1st Qu.",10.89
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","Distance","3rd Qu.",61.93
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","Distance","Max.",14106.29
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","Distance","Mean",91.66
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","Distance","Median",26.98
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","Distance","Min.",0.03
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","Distance","NA's",9577
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","Duration","1st Qu.",13.3
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","Duration","3rd Qu.",53.46
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","Duration","Max.",9846.97
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","Duration","Mean",70.45
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","Duration","Median",26.88
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","Duration","Min.",0.07
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","Duration","NA's",9577
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","GENDER","F",473847
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","GENDER","M",367573
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","NPI_n","Count",956
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","RACE","Black",95164
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","RACE","Not Provided",105982
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","RACE","Other",71762
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","RACE","White",568512
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","row_n","Count",2902285
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","zip_add_combination_n","Count",37508
+"2. NPI/2.3 NPI_dentist_21.csv","dentist_21","3. df_geo/3.3 df_geo_dentist_21.RData","Dentist","2021","ZIP_n","Count",1092
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","address_n","Count",719
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","AGE_RANGE_DFS","00 - 04",89730
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","AGE_RANGE_DFS","05 - 09",210323
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","AGE_RANGE_DFS","10 - 14",176388
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","AGE_RANGE_DFS","15 - 19",119343
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","AGE_RANGE_DFS","20 - 24",45768
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","AGE_RANGE_DFS","25 - 29",42144
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","AGE_RANGE_DFS","30 - 34",42571
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","AGE_RANGE_DFS","35 - 39",35418
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","AGE_RANGE_DFS","40 - 44",30481
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","AGE_RANGE_DFS","45 - 49",24067
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","AGE_RANGE_DFS","50 - 54",22234
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","AGE_RANGE_DFS","55 - 59",19736
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","AGE_RANGE_DFS","60 - 64",17055
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","BEN_ID_n","Count",436835
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","CLAIM_GUID_n","Count",875246
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","Distance","1st Qu.",11.91
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","Distance","3rd Qu.",66.85
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","Distance","Max.",14106.29
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","Distance","Mean",90.73
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","Distance","Median",28.72
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","Distance","Min.",0.03
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","Distance","NA's",10411
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","Duration","1st Qu.",14.16
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","Duration","3rd Qu.",57.05
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","Duration","Max.",9846.97
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","Duration","Mean",69.91
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","Duration","Median",28.51
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","Duration","Min.",0.07
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","Duration","NA's",10411
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","GENDER","F",488621
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","GENDER","M",386637
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","NPI_n","Count",921
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","RACE","Black",99034
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","RACE","Not Provided",91244
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","RACE","Other",86636
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","RACE","White",598344
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","row_n","Count",3039106
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","zip_add_combination_n","Count",38426
+"2. NPI/2.3 NPI_dentist_22.csv","dentist_22","3. df_geo/3.3 df_geo_dentist_22.RData","Dentist","2022","ZIP_n","Count",1123
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","address_n","Count",25
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","AGE_RANGE_DFS","00 - 04",1394
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","AGE_RANGE_DFS","05 - 09",1367
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","AGE_RANGE_DFS","10 - 14",1263
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","AGE_RANGE_DFS","15 - 19",1340
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","AGE_RANGE_DFS","20 - 24",1564
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","AGE_RANGE_DFS","25 - 29",2272
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","AGE_RANGE_DFS","30 - 34",2455
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","AGE_RANGE_DFS","35 - 39",2714
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","AGE_RANGE_DFS","40 - 44",2462
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","AGE_RANGE_DFS","45 - 49",2799
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","AGE_RANGE_DFS","50 - 54",2360
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","AGE_RANGE_DFS","55 - 59",2721
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","AGE_RANGE_DFS","60 - 64",2132
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","BEN_ID_n","Count",8760
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","CLAIM_GUID_n","Count",26842
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","Distance","1st Qu.",8.88
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","Distance","3rd Qu.",67.68
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","Distance","Max.",3444.91
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","Distance","Mean",53.83
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","Distance","Median",27.15
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","Distance","Min.",0.53
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","Distance","NA's",647
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","Duration","1st Qu.",9.78
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","Duration","3rd Qu.",58.84
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","Duration","Max.",2148.83
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","Duration","Mean",44.81
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","Duration","Median",26.3
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","Duration","Min.",0.86
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","Duration","NA's",647
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","GENDER","F",15849
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","GENDER","M",10994
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","NPI_n","Count",27
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","RACE","Black",2350
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","RACE","Not Provided",3318
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","RACE","Other",341
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","RACE","White",20834
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","row_n","Count",43132
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","zip_add_combination_n","Count",917
+"2. NPI/2.1 NPI_family_18.csv","family_18","3. df_geo/3.1 df_geo_family_18.RData","Family Medicine","2018","ZIP_n","Count",495
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","address_n","Count",23
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","AGE_RANGE_DFS","00 - 04",1042
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","AGE_RANGE_DFS","05 - 09",1063
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","AGE_RANGE_DFS","10 - 14",1199
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","AGE_RANGE_DFS","15 - 19",1140
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","AGE_RANGE_DFS","20 - 24",1497
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","AGE_RANGE_DFS","25 - 29",2709
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","AGE_RANGE_DFS","30 - 34",3556
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","AGE_RANGE_DFS","35 - 39",3692
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","AGE_RANGE_DFS","40 - 44",2888
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","AGE_RANGE_DFS","45 - 49",2592
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","AGE_RANGE_DFS","50 - 54",2670
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","AGE_RANGE_DFS","55 - 59",2543
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","AGE_RANGE_DFS","60 - 64",1921
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","BEN_ID_n","Count",7093
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","CLAIM_GUID_n","Count",28512
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","Distance","1st Qu.",8.88
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","Distance","3rd Qu.",52.25
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","Distance","Max.",4405.27
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","Distance","Mean",43.37
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","Distance","Median",25.33
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","Distance","Min.",0.53
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","Distance","NA's",370
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","Duration","1st Qu.",10.1
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","Duration","3rd Qu.",49.42
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","Duration","Max.",2951.98
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","Duration","Mean",38.64
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","Duration","Median",26.75
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","Duration","Min.",0.86
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","Duration","NA's",370
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","GENDER","F",15989
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","GENDER","M",12523
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","NPI_n","Count",25
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","RACE","Black",2075
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","RACE","Not Provided",2956
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","RACE","Other",321
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","RACE","White",23160
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","row_n","Count",46174
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","zip_add_combination_n","Count",749
+"2. NPI/2.1 NPI_family_19.csv","family_19","3. df_geo/3.1 df_geo_family_19.RData","Family Medicine","2019","ZIP_n","Count",414
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","address_n","Count",21
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","AGE_RANGE_DFS","00 - 04",722
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","AGE_RANGE_DFS","05 - 09",711
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","AGE_RANGE_DFS","10 - 14",748
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","AGE_RANGE_DFS","15 - 19",825
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","AGE_RANGE_DFS","20 - 24",1170
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","AGE_RANGE_DFS","25 - 29",1500
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","AGE_RANGE_DFS","30 - 34",1732
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","AGE_RANGE_DFS","35 - 39",2276
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","AGE_RANGE_DFS","40 - 44",1986
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","AGE_RANGE_DFS","45 - 49",1943
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","AGE_RANGE_DFS","50 - 54",1696
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","AGE_RANGE_DFS","55 - 59",1829
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","AGE_RANGE_DFS","60 - 64",1534
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","BEN_ID_n","Count",5766
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","CLAIM_GUID_n","Count",18671
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","Distance","1st Qu.",9.5
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","Distance","3rd Qu.",52.25
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","Distance","Max.",2279.52
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","Distance","Mean",39.62
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","Distance","Median",27.45
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","Distance","Min.",0.53
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","Distance","NA's",156
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","Duration","1st Qu.",12.01
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","Duration","3rd Qu.",47.32
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","Duration","Max.",1430.26
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","Duration","Mean",36.19
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","Duration","Median",26.6
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","Duration","Min.",0.86
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","Duration","NA's",156
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","GENDER","F",10713
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","GENDER","M",7959
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","NPI_n","Count",23
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","RACE","Black",1252
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","RACE","Not Provided",2114
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","RACE","Other",226
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","RACE","White",15080
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","row_n","Count",30466
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","zip_add_combination_n","Count",699
+"2. NPI/2.1 NPI_family_20.csv","family_20","3. df_geo/3.1 df_geo_family_20.RData","Family Medicine","2020","ZIP_n","Count",405
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","address_n","Count",23
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","AGE_RANGE_DFS","00 - 04",674
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","AGE_RANGE_DFS","05 - 09",721
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","AGE_RANGE_DFS","10 - 14",876
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","AGE_RANGE_DFS","15 - 19",936
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","AGE_RANGE_DFS","20 - 24",1264
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","AGE_RANGE_DFS","25 - 29",1447
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","AGE_RANGE_DFS","30 - 34",1148
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","AGE_RANGE_DFS","35 - 39",1426
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","AGE_RANGE_DFS","40 - 44",1671
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","AGE_RANGE_DFS","45 - 49",1398
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","AGE_RANGE_DFS","50 - 54",1507
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","AGE_RANGE_DFS","55 - 59",1433
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","AGE_RANGE_DFS","60 - 64",1560
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","BEN_ID_n","Count",6205
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","CLAIM_GUID_n","Count",16061
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","Distance","1st Qu.",8.36
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","Distance","3rd Qu.",47.6
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","Distance","Max.",2323.56
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","Distance","Mean",41.37
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","Distance","Median",21.53
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","Distance","Min.",0.53
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","Distance","NA's",49
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","Duration","1st Qu.",11.92
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","Duration","3rd Qu.",46.84
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","Duration","Max.",1461.32
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","Duration","Mean",36.59
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","Duration","Median",21.99
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","Duration","Min.",0.86
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","Duration","NA's",49
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","GENDER","F",9585
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","GENDER","M",6476
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","NPI_n","Count",25
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","RACE","Black",1691
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","RACE","Not Provided",2049
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","RACE","Other",288
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","RACE","White",12033
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","row_n","Count",25219
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","zip_add_combination_n","Count",719
+"2. NPI/2.1 NPI_family_21.csv","family_21","3. df_geo/3.1 df_geo_family_21.RData","Family Medicine","2021","ZIP_n","Count",408
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","address_n","Count",26
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","AGE_RANGE_DFS","00 - 04",631
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","AGE_RANGE_DFS","05 - 09",800
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","AGE_RANGE_DFS","10 - 14",913
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","AGE_RANGE_DFS","15 - 19",1072
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","AGE_RANGE_DFS","20 - 24",1260
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","AGE_RANGE_DFS","25 - 29",1504
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","AGE_RANGE_DFS","30 - 34",1549
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","AGE_RANGE_DFS","35 - 39",1660
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","AGE_RANGE_DFS","40 - 44",1562
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","AGE_RANGE_DFS","45 - 49",1639
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","AGE_RANGE_DFS","50 - 54",1604
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","AGE_RANGE_DFS","55 - 59",1459
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","AGE_RANGE_DFS","60 - 64",1612
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","BEN_ID_n","Count",6381
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","CLAIM_GUID_n","Count",17259
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","Distance","1st Qu.",10.18
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","Distance","3rd Qu.",58.52
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","Distance","Max.",2296.12
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","Distance","Mean",50.41
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","Distance","Median",28.05
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","Distance","Min.",0.53
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","Distance","NA's",57
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","Duration","1st Qu.",13.72
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","Duration","3rd Qu.",49.59
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","Duration","Max.",1454.71
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","Duration","Mean",43.03
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","Duration","Median",26.6
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","Duration","Min.",0.86
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","Duration","NA's",57
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","GENDER","F",9678
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","GENDER","M",7587
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","NPI_n","Count",28
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","RACE","Black",1845
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","RACE","Not Provided",1833
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","RACE","Other",419
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","RACE","White",13168
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","row_n","Count",29237
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","zip_add_combination_n","Count",801
+"2. NPI/2.1 NPI_family_22.csv","family_22","3. df_geo/3.1 df_geo_family_22.RData","Family Medicine","2022","ZIP_n","Count",402
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","address_n","Count",8
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","AGE_RANGE_DFS","00 - 04",1347
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","AGE_RANGE_DFS","05 - 09",472
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","AGE_RANGE_DFS","10 - 14",626
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","AGE_RANGE_DFS","15 - 19",303
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","AGE_RANGE_DFS","20 - 24",166
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","AGE_RANGE_DFS","25 - 29",266
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","AGE_RANGE_DFS","30 - 34",260
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","AGE_RANGE_DFS","35 - 39",357
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","AGE_RANGE_DFS","40 - 44",424
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","AGE_RANGE_DFS","45 - 49",455
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","AGE_RANGE_DFS","50 - 54",629
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","AGE_RANGE_DFS","55 - 59",687
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","AGE_RANGE_DFS","60 - 64",608
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","BEN_ID_n","Count",2503
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","CLAIM_GUID_n","Count",6599
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","Distance","1st Qu.",2.43
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","Distance","3rd Qu.",33.15
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","Distance","Max.",3911.51
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","Distance","Mean",30.33
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","Distance","Median",15.74
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","Distance","Min.",1.64
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","Distance","NA's",11
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","Duration","1st Qu.",3.3
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","Duration","3rd Qu.",34.97
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","Duration","Max.",2448.7
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","Duration","Mean",26.99
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","Duration","Median",15.2
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","Duration","Min.",2.28
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","Duration","NA's",11
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","GENDER","F",3475
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","GENDER","M",3125
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","NPI_n","Count",8
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","RACE","Black",87
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","RACE","Not Provided",966
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","RACE","Other",45
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","RACE","White",5502
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","row_n","Count",10284
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","zip_add_combination_n","Count",273
+"2. NPI/2.6 NPI_internal_18.csv","internal_18","3. df_geo/3.6 df_geo_internal_18.RData","Internal Medicine","2018","ZIP_n","Count",168
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","address_n","Count",9
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","AGE_RANGE_DFS","00 - 04",1863
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","AGE_RANGE_DFS","05 - 09",594
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","AGE_RANGE_DFS","10 - 14",611
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","AGE_RANGE_DFS","15 - 19",334
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","AGE_RANGE_DFS","20 - 24",231
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","AGE_RANGE_DFS","25 - 29",286
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","AGE_RANGE_DFS","30 - 34",377
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","AGE_RANGE_DFS","35 - 39",481
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","AGE_RANGE_DFS","40 - 44",407
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","AGE_RANGE_DFS","45 - 49",560
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","AGE_RANGE_DFS","50 - 54",596
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","AGE_RANGE_DFS","55 - 59",688
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","AGE_RANGE_DFS","60 - 64",634
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","BEN_ID_n","Count",2808
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","CLAIM_GUID_n","Count",7662
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","Distance","1st Qu.",2.43
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","Distance","3rd Qu.",33.51
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","Distance","Max.",487.67
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","Distance","Mean",24.34
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","Distance","Median",14.15
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","Distance","Min.",1.64
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","Distance","NA's",37
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","Duration","1st Qu.",3.3
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","Duration","3rd Qu.",33.02
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","Duration","Max.",373.29
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","Duration","Mean",22.6
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","Duration","Median",15.2
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","Duration","Min.",2.28
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","Duration","NA's",37
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","GENDER","F",3998
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","GENDER","M",3664
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","NPI_n","Count",9
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","RACE","Black",181
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","RACE","Not Provided",1196
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","RACE","Other",74
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","RACE","White",6211
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","row_n","Count",11912
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","zip_add_combination_n","Count",299
+"2. NPI/2.6 NPI_internal_19.csv","internal_19","3. df_geo/3.6 df_geo_internal_19.RData","Internal Medicine","2019","ZIP_n","Count",172
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","address_n","Count",8
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","AGE_RANGE_DFS","00 - 04",1791
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","AGE_RANGE_DFS","05 - 09",432
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","AGE_RANGE_DFS","10 - 14",363
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","AGE_RANGE_DFS","15 - 19",273
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","AGE_RANGE_DFS","20 - 24",166
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","AGE_RANGE_DFS","25 - 29",215
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","AGE_RANGE_DFS","30 - 34",243
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","AGE_RANGE_DFS","35 - 39",314
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","AGE_RANGE_DFS","40 - 44",435
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","AGE_RANGE_DFS","45 - 49",498
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","AGE_RANGE_DFS","50 - 54",599
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","AGE_RANGE_DFS","55 - 59",638
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","AGE_RANGE_DFS","60 - 64",643
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","BEN_ID_n","Count",2649
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","CLAIM_GUID_n","Count",6608
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","Distance","1st Qu.",3.06
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","Distance","3rd Qu.",33.93
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","Distance","Max.",381.63
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","Distance","Mean",22.48
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","Distance","Median",5.67
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","Distance","Min.",1.64
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","Distance","NA's",33
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","Duration","1st Qu.",3.48
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","Duration","3rd Qu.",34.22
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","Duration","Max.",287.24
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","Duration","Mean",21.52
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","Duration","Median",7.81
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","Duration","Min.",2.28
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","Duration","NA's",33
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","GENDER","F",3477
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","GENDER","M",3133
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","NPI_n","Count",8
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","RACE","Black",116
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","RACE","Not Provided",1182
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","RACE","Other",180
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","RACE","White",5132
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","row_n","Count",11027
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","zip_add_combination_n","Count",268
+"2. NPI/2.6 NPI_internal_20.csv","internal_20","3. df_geo/3.6 df_geo_internal_20.RData","Internal Medicine","2020","ZIP_n","Count",157
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","address_n","Count",9
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","AGE_RANGE_DFS","00 - 04",2015
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","AGE_RANGE_DFS","05 - 09",750
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","AGE_RANGE_DFS","10 - 14",553
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","AGE_RANGE_DFS","15 - 19",426
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","AGE_RANGE_DFS","20 - 24",223
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","AGE_RANGE_DFS","25 - 29",250
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","AGE_RANGE_DFS","30 - 34",326
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","AGE_RANGE_DFS","35 - 39",334
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","AGE_RANGE_DFS","40 - 44",460
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","AGE_RANGE_DFS","45 - 49",564
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","AGE_RANGE_DFS","50 - 54",688
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","AGE_RANGE_DFS","55 - 59",688
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","AGE_RANGE_DFS","60 - 64",658
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","BEN_ID_n","Count",3348
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","CLAIM_GUID_n","Count",7931
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","Distance","1st Qu.",3.69
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","Distance","3rd Qu.",33.93
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","Distance","Max.",614.96
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","Distance","Mean",22.7
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","Distance","Median",16.22
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","Distance","Min.",1.64
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","Distance","NA's",13
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","Duration","1st Qu.",5.34
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","Duration","3rd Qu.",33.49
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","Duration","Max.",441.58
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","Duration","Mean",22.1
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","Duration","Median",16.46
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","Duration","Min.",2.28
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","Duration","NA's",13
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","GENDER","F",4238
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","GENDER","M",3697
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","NPI_n","Count",9
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","RACE","Black",304
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","RACE","Not Provided",1417
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","RACE","Other",349
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","RACE","White",5865
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","row_n","Count",14407
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","zip_add_combination_n","Count",304
+"2. NPI/2.6 NPI_internal_21.csv","internal_21","3. df_geo/3.6 df_geo_internal_21.RData","Internal Medicine","2021","ZIP_n","Count",182
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","address_n","Count",9
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","AGE_RANGE_DFS","00 - 04",1894
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","AGE_RANGE_DFS","05 - 09",890
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","AGE_RANGE_DFS","10 - 14",575
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","AGE_RANGE_DFS","15 - 19",461
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","AGE_RANGE_DFS","20 - 24",281
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","AGE_RANGE_DFS","25 - 29",352
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","AGE_RANGE_DFS","30 - 34",348
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","AGE_RANGE_DFS","35 - 39",372
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","AGE_RANGE_DFS","40 - 44",488
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","AGE_RANGE_DFS","45 - 49",517
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","AGE_RANGE_DFS","50 - 54",706
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","AGE_RANGE_DFS","55 - 59",647
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","AGE_RANGE_DFS","60 - 64",661
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","BEN_ID_n","Count",3601
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","CLAIM_GUID_n","Count",8191
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","Distance","1st Qu.",3.69
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","Distance","3rd Qu.",33.15
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","Distance","Max.",463.27
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","Distance","Mean",21.68
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","Distance","Median",16.22
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","Distance","Min.",1.64
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","Distance","NA's",27
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","Duration","1st Qu.",5.34
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","Duration","3rd Qu.",32.92
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","Duration","Max.",331.42
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","Duration","Mean",21.53
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","Duration","Median",16.46
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","Duration","Min.",2.28
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","Duration","NA's",27
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","GENDER","F",4292
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","GENDER","M",3900
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","NPI_n","Count",9
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","RACE","Black",348
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","RACE","Not Provided",1206
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","RACE","Other",464
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","RACE","White",6174
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","row_n","Count",14117
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","zip_add_combination_n","Count",314
+"2. NPI/2.6 NPI_internal_22.csv","internal_22","3. df_geo/3.6 df_geo_internal_22.RData","Internal Medicine","2022","ZIP_n","Count",194
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","address_n","Count",1778
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","AGE_RANGE_DFS","00 - 04",234904
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","AGE_RANGE_DFS","05 - 09",184859
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","AGE_RANGE_DFS","10 - 14",170247
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","AGE_RANGE_DFS","15 - 19",148611
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","AGE_RANGE_DFS","20 - 24",97191
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","AGE_RANGE_DFS","25 - 29",115093
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","AGE_RANGE_DFS","30 - 34",114546
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","AGE_RANGE_DFS","35 - 39",121305
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","AGE_RANGE_DFS","40 - 44",111375
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","AGE_RANGE_DFS","45 - 49",111298
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","AGE_RANGE_DFS","50 - 54",116980
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","AGE_RANGE_DFS","55 - 59",105353
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","AGE_RANGE_DFS","60 - 64",80733
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","BEN_ID_n","Count",574579
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","CLAIM_GUID_n","Count",1712457
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","Distance","1st Qu.",9.53
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","Distance","3rd Qu.",57.2
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","Distance","Max.",9347.27
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","Distance","Mean",97.01
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","Distance","Median",24.68
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","Distance","Min.",0.03
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","Distance","NA's",23336
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","Duration","1st Qu.",11.24
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","Duration","3rd Qu.",50.29
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","Duration","Max.",6440.16
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","Duration","Mean",73.76
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","Duration","Median",24.97
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","Duration","Min.",0.06
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","Duration","NA's",23336
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","GENDER","F",1050649
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","GENDER","M",661842
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","GENDER","U",4
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","NPI_n","Count",2848
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","RACE","Black",128209
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","RACE","Not Provided",200180
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","RACE","Other",30306
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","RACE","White",1353800
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","row_n","Count",2927525
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","zip_add_combination_n","Count",64786
+"2. NPI/2.7 NPI_nurse_18.csv","nurse_18","3. df_geo/3.7 df_geo_nurse_18.RData","Nurse Practitioner","2018","ZIP_n","Count",1356
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","address_n","Count",1976
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","AGE_RANGE_DFS","00 - 04",255107
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","AGE_RANGE_DFS","05 - 09",225233
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","AGE_RANGE_DFS","10 - 14",207790
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","AGE_RANGE_DFS","15 - 19",166749
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","AGE_RANGE_DFS","20 - 24",105114
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","AGE_RANGE_DFS","25 - 29",133331
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","AGE_RANGE_DFS","30 - 34",139202
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","AGE_RANGE_DFS","35 - 39",145311
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","AGE_RANGE_DFS","40 - 44",131255
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","AGE_RANGE_DFS","45 - 49",126216
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","AGE_RANGE_DFS","50 - 54",127025
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","AGE_RANGE_DFS","55 - 59",120844
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","AGE_RANGE_DFS","60 - 64",95424
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","BEN_ID_n","Count",610869
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","CLAIM_GUID_n","Count",1978562
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","Distance","1st Qu.",10.24
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","Distance","3rd Qu.",58.68
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","Distance","Max.",9347.27
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","Distance","Mean",89.98
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","Distance","Median",26.54
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","Distance","Min.",0.03
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","Distance","NA's",25639
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","Duration","1st Qu.",11.74
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","Duration","3rd Qu.",51.24
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","Duration","Max.",6440.16
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","Duration","Mean",69.21
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","Duration","Median",26.23
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","Duration","Min.",0.06
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","Duration","NA's",25639
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","GENDER","F",1204867
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","GENDER","M",773730
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","GENDER","U",4
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","NPI_n","Count",3200
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","RACE","Black",139821
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","RACE","Not Provided",236820
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","RACE","Other",35538
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","RACE","White",1566422
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","row_n","Count",3398381
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","zip_add_combination_n","Count",72500
+"2. NPI/2.7 NPI_nurse_19.csv","nurse_19","3. df_geo/3.7 df_geo_nurse_19.RData","Nurse Practitioner","2019","ZIP_n","Count",1284
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","address_n","Count",2124
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","AGE_RANGE_DFS","00 - 04",183599
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","AGE_RANGE_DFS","05 - 09",143160
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","AGE_RANGE_DFS","10 - 14",137157
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","AGE_RANGE_DFS","15 - 19",136634
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","AGE_RANGE_DFS","20 - 24",128376
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","AGE_RANGE_DFS","25 - 29",175384
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","AGE_RANGE_DFS","30 - 34",200917
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","AGE_RANGE_DFS","35 - 39",200385
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","AGE_RANGE_DFS","40 - 44",183691
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","AGE_RANGE_DFS","45 - 49",156915
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","AGE_RANGE_DFS","50 - 54",151649
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","AGE_RANGE_DFS","55 - 59",140592
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","AGE_RANGE_DFS","60 - 64",111430
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","BEN_ID_n","Count",616513
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","CLAIM_GUID_n","Count",2049844
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","Distance","1st Qu.",11.21
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","Distance","3rd Qu.",66.83
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","Distance","Max.",9347.27
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","Distance","Mean",90.94
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","Distance","Median",29.3
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","Distance","Min.",0.03
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","Distance","NA's",23867
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","Duration","1st Qu.",13.16
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","Duration","3rd Qu.",56.88
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","Duration","Max.",6440.16
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","Duration","Mean",70.4
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","Duration","Median",28.89
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","Duration","Min.",0.06
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","Duration","NA's",23867
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","GENDER","F",1248247
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","GENDER","M",801642
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","NPI_n","Count",3549
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","RACE","Black",140328
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","RACE","Not Provided",254060
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","RACE","Other",57674
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","RACE","White",1597827
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","row_n","Count",3271890
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","zip_add_combination_n","Count",81615
+"2. NPI/2.7 NPI_nurse_20.csv","nurse_20","3. df_geo/3.7 df_geo_nurse_20.RData","Nurse Practitioner","2020","ZIP_n","Count",1317
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","address_n","Count",2294
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","AGE_RANGE_DFS","00 - 04",240390
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","AGE_RANGE_DFS","05 - 09",211444
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","AGE_RANGE_DFS","10 - 14",213964
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","AGE_RANGE_DFS","15 - 19",190448
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","AGE_RANGE_DFS","20 - 24",166651
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","AGE_RANGE_DFS","25 - 29",221066
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","AGE_RANGE_DFS","30 - 34",270306
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","AGE_RANGE_DFS","35 - 39",266773
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","AGE_RANGE_DFS","40 - 44",254958
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","AGE_RANGE_DFS","45 - 49",205345
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","AGE_RANGE_DFS","50 - 54",193847
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","AGE_RANGE_DFS","55 - 59",178166
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","AGE_RANGE_DFS","60 - 64",143660
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","BEN_ID_n","Count",731034
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","CLAIM_GUID_n","Count",2756923
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","Distance","1st Qu.",11.15
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","Distance","3rd Qu.",66.51
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","Distance","Max.",14106.29
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","Distance","Mean",90.23
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","Distance","Median",29.45
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","Distance","Min.",0.03
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","Distance","NA's",30846
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","Duration","1st Qu.",13.13
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","Duration","3rd Qu.",56.74
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","Duration","Max.",9846.97
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","Duration","Mean",69.73
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","Duration","Median",29.11
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","Duration","Min.",0.06
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","Duration","NA's",30846
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","GENDER","F",1647432
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","GENDER","M",1109586
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","NPI_n","Count",3917
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","RACE","Black",196085
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","RACE","Not Provided",335158
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","RACE","Other",98384
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","RACE","White",2127391
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","row_n","Count",4395284
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","zip_add_combination_n","Count",96810
+"2. NPI/2.7 NPI_nurse_21.csv","nurse_21","3. df_geo/3.7 df_geo_nurse_21.RData","Nurse Practitioner","2021","ZIP_n","Count",1349
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","address_n","Count",2503
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","AGE_RANGE_DFS","00 - 04",276746
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","AGE_RANGE_DFS","05 - 09",295255
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","AGE_RANGE_DFS","10 - 14",281150
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","AGE_RANGE_DFS","15 - 19",224479
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","AGE_RANGE_DFS","20 - 24",180489
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","AGE_RANGE_DFS","25 - 29",240750
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","AGE_RANGE_DFS","30 - 34",313563
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","AGE_RANGE_DFS","35 - 39",313319
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","AGE_RANGE_DFS","40 - 44",300935
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","AGE_RANGE_DFS","45 - 49",236388
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","AGE_RANGE_DFS","50 - 54",220225
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","AGE_RANGE_DFS","55 - 59",197296
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","AGE_RANGE_DFS","60 - 64",166217
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","BEN_ID_n","Count",775344
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","CLAIM_GUID_n","Count",3246650
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","Distance","1st Qu.",11.06
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","Distance","3rd Qu.",67.6
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","Distance","Max.",9347.27
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","Distance","Mean",90.7
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","Distance","Median",29.27
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","Distance","Min.",0.03
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","Distance","NA's",38184
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","Duration","1st Qu.",12.93
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","Duration","3rd Qu.",57.38
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","Duration","Max.",6440.16
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","Duration","Mean",70
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","Duration","Median",28.98
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","Duration","Min.",0.06
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","Duration","NA's",38184
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","GENDER","F",1910243
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","GENDER","M",1336569
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","NPI_n","Count",4335
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","RACE","Black",227592
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","RACE","Not Provided",312514
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","RACE","Other",139491
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","RACE","White",2567215
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","row_n","Count",5215725
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","zip_add_combination_n","Count",110193
+"2. NPI/2.7 NPI_nurse_22.csv","nurse_22","3. df_geo/3.7 df_geo_nurse_22.RData","Nurse Practitioner","2022","ZIP_n","Count",1393
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","address_n","Count",38
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","AGE_RANGE_DFS","00 - 04",23057
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","AGE_RANGE_DFS","05 - 09",11879
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","AGE_RANGE_DFS","10 - 14",10183
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","AGE_RANGE_DFS","15 - 19",5578
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","AGE_RANGE_DFS","20 - 24",436
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","AGE_RANGE_DFS","25 - 29",55
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","AGE_RANGE_DFS","30 - 34",38
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","AGE_RANGE_DFS","35 - 39",63
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","AGE_RANGE_DFS","40 - 44",24
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","AGE_RANGE_DFS","45 - 49",63
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","AGE_RANGE_DFS","50 - 54",54
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","AGE_RANGE_DFS","55 - 59",68
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","AGE_RANGE_DFS","60 - 64",17
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","BEN_ID_n","Count",17956
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","CLAIM_GUID_n","Count",51507
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","Distance","1st Qu.",7.12
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","Distance","3rd Qu.",24.83
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","Distance","Max.",3093.46
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","Distance","Mean",23.72
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","Distance","Median",11.88
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","Distance","Min.",1.09
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","Distance","NA's",193
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","Duration","1st Qu.",9.42
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","Duration","3rd Qu.",25.94
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","Duration","Max.",2135.17
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","Duration","Mean",23.09
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","Duration","Median",16.27
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","Duration","Min.",1.85
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","Duration","NA's",193
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","GENDER","F",25369
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","GENDER","M",26146
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","NPI_n","Count",59
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","RACE","Black",4324
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","RACE","Not Provided",7370
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","RACE","Other",1869
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","RACE","White",37952
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","row_n","Count",102257
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","zip_add_combination_n","Count",1627
+"2. NPI/2.2 NPI_pediatrics_18.csv","pediatrics_18","3. df_geo/3.2 df_geo_pediatrics_18.RData","Pediatrics","2018","ZIP_n","Count",499
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","address_n","Count",38
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","AGE_RANGE_DFS","00 - 04",20574
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","AGE_RANGE_DFS","05 - 09",11479
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","AGE_RANGE_DFS","10 - 14",9708
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","AGE_RANGE_DFS","15 - 19",5561
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","AGE_RANGE_DFS","20 - 24",314
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","AGE_RANGE_DFS","25 - 29",61
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","AGE_RANGE_DFS","30 - 34",44
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","AGE_RANGE_DFS","35 - 39",32
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","AGE_RANGE_DFS","40 - 44",55
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","AGE_RANGE_DFS","45 - 49",47
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","AGE_RANGE_DFS","50 - 54",69
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","AGE_RANGE_DFS","55 - 59",128
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","AGE_RANGE_DFS","60 - 64",71
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","BEN_ID_n","Count",16956
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","CLAIM_GUID_n","Count",48139
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","Distance","1st Qu.",7.12
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","Distance","3rd Qu.",25.42
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","Distance","Max.",3204.64
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","Distance","Mean",24.48
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","Distance","Median",12.06
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","Distance","Min.",1.09
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","Distance","NA's",209
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","Duration","1st Qu.",9.43
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","Duration","3rd Qu.",26.33
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","Duration","Max.",2158.37
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","Duration","Mean",23.65
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","Duration","Median",16.32
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","Duration","Min.",1.85
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","Duration","NA's",209
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","GENDER","F",23552
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","GENDER","M",24591
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","NPI_n","Count",60
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","RACE","Black",3952
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","RACE","Not Provided",7328
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","RACE","Other",1775
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","RACE","White",35088
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","row_n","Count",96893
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","zip_add_combination_n","Count",1585
+"2. NPI/2.2 NPI_pediatrics_19.csv","pediatrics_19","3. df_geo/3.2 df_geo_pediatrics_19.RData","Pediatrics","2019","ZIP_n","Count",477
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","address_n","Count",40
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","AGE_RANGE_DFS","00 - 04",16320
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","AGE_RANGE_DFS","05 - 09",8125
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","AGE_RANGE_DFS","10 - 14",7669
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","AGE_RANGE_DFS","15 - 19",4579
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","AGE_RANGE_DFS","20 - 24",279
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","AGE_RANGE_DFS","25 - 29",56
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","AGE_RANGE_DFS","30 - 34",47
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","AGE_RANGE_DFS","35 - 39",19
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","AGE_RANGE_DFS","40 - 44",68
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","AGE_RANGE_DFS","45 - 49",50
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","AGE_RANGE_DFS","50 - 54",68
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","AGE_RANGE_DFS","55 - 59",83
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","AGE_RANGE_DFS","60 - 64",74
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","BEN_ID_n","Count",14796
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","CLAIM_GUID_n","Count",37436
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","Distance","1st Qu.",7.12
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","Distance","3rd Qu.",25.94
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","Distance","Max.",3653.99
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","Distance","Mean",24.17
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","Distance","Median",12.11
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","Distance","Min.",0.5
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","Distance","NA's",121
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","Duration","1st Qu.",9.76
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","Duration","3rd Qu.",26.37
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","Duration","Max.",2427.77
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","Duration","Mean",23.46
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","Duration","Median",16.65
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","Duration","Min.",1.3
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","Duration","NA's",121
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","GENDER","F",18282
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","GENDER","M",19155
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","NPI_n","Count",58
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","RACE","Black",3137
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","RACE","Not Provided",5919
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","RACE","Other",3393
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","RACE","White",24988
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","row_n","Count",79353
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","zip_add_combination_n","Count",1451
+"2. NPI/2.2 NPI_pediatrics_20.csv","pediatrics_20","3. df_geo/3.2 df_geo_pediatrics_20.RData","Pediatrics","2020","ZIP_n","Count",467
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","address_n","Count",39
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","AGE_RANGE_DFS","00 - 04",18979
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","AGE_RANGE_DFS","05 - 09",10054
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","AGE_RANGE_DFS","10 - 14",8776
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","AGE_RANGE_DFS","15 - 19",5136
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","AGE_RANGE_DFS","20 - 24",413
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","AGE_RANGE_DFS","25 - 29",125
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","AGE_RANGE_DFS","30 - 34",106
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","AGE_RANGE_DFS","35 - 39",106
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","AGE_RANGE_DFS","40 - 44",111
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","AGE_RANGE_DFS","45 - 49",60
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","AGE_RANGE_DFS","50 - 54",111
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","AGE_RANGE_DFS","55 - 59",165
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","AGE_RANGE_DFS","60 - 64",176
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","BEN_ID_n","Count",16475
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","CLAIM_GUID_n","Count",44314
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","Distance","1st Qu.",7.12
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","Distance","3rd Qu.",30.56
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","Distance","Max.",2827.71
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","Distance","Mean",32.24
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","Distance","Median",14.38
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","Distance","Min.",1.09
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","Distance","NA's",171
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","Duration","1st Qu.",9.99
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","Duration","3rd Qu.",30.07
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","Duration","Max.",1748.01
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","Duration","Mean",29.12
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","Duration","Median",16.7
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","Duration","Min.",1.85
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","Duration","NA's",171
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","GENDER","F",21406
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","GENDER","M",22912
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","NPI_n","Count",57
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","RACE","Black",3884
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","RACE","Not Provided",6902
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","RACE","Other",4938
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","RACE","White",28594
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","row_n","Count",94436
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","zip_add_combination_n","Count",1459
+"2. NPI/2.2 NPI_pediatrics_21.csv","pediatrics_21","3. df_geo/3.2 df_geo_pediatrics_21.RData","Pediatrics","2021","ZIP_n","Count",467
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","address_n","Count",42
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","AGE_RANGE_DFS","00 - 04",17478
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","AGE_RANGE_DFS","05 - 09",10709
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","AGE_RANGE_DFS","10 - 14",8866
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","AGE_RANGE_DFS","15 - 19",5542
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","AGE_RANGE_DFS","20 - 24",375
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","AGE_RANGE_DFS","25 - 29",87
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","AGE_RANGE_DFS","30 - 34",44
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","AGE_RANGE_DFS","35 - 39",30
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","AGE_RANGE_DFS","40 - 44",34
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","AGE_RANGE_DFS","45 - 49",13
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","AGE_RANGE_DFS","50 - 54",6
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","AGE_RANGE_DFS","55 - 59",28
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","AGE_RANGE_DFS","60 - 64",15
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","BEN_ID_n","Count",15936
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","CLAIM_GUID_n","Count",43223
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","Distance","1st Qu.",7.12
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","Distance","3rd Qu.",34.17
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","Distance","Max.",3806.68
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","Distance","Mean",42.44
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","Distance","Median",15.01
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","Distance","Min.",1.09
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","Distance","NA's",86
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","Duration","1st Qu.",9.42
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","Duration","3rd Qu.",31.93
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","Duration","Max.",2685.89
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","Duration","Mean",36.16
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","Duration","Median",17.15
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","Duration","Min.",1.85
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","Duration","NA's",86
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","GENDER","F",20557
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","GENDER","M",22670
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","NPI_n","Count",59
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","RACE","Black",3671
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","RACE","Not Provided",5482
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","RACE","Other",5432
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","RACE","White",28642
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","row_n","Count",88707
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","zip_add_combination_n","Count",1478
+"2. NPI/2.2 NPI_pediatrics_22.csv","pediatrics_22","3. df_geo/3.2 df_geo_pediatrics_22.RData","Pediatrics","2022","ZIP_n","Count",465
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","address_n","Count",3
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","AGE_RANGE_DFS","00 - 04",103
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","AGE_RANGE_DFS","05 - 09",8
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","AGE_RANGE_DFS","10 - 14",40
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","AGE_RANGE_DFS","15 - 19",71
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","AGE_RANGE_DFS","20 - 24",35
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","AGE_RANGE_DFS","25 - 29",27
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","AGE_RANGE_DFS","30 - 34",12
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","AGE_RANGE_DFS","35 - 39",16
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","AGE_RANGE_DFS","40 - 44",16
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","AGE_RANGE_DFS","45 - 49",12
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","AGE_RANGE_DFS","50 - 54",15
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","AGE_RANGE_DFS","55 - 59",15
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","AGE_RANGE_DFS","60 - 64",2
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","BEN_ID_n","Count",241
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","CLAIM_GUID_n","Count",372
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","Distance","1st Qu.",5.4
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","Distance","3rd Qu.",5.4
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","Distance","Max.",248.6
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","Distance","Mean",11.74
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","Distance","Median",5.4
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","Distance","Min.",2.11
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","Duration","1st Qu.",7.14
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","Duration","3rd Qu.",7.14
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","Duration","Max.",190.99
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","Duration","Mean",13.22
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","Duration","Median",7.14
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","Duration","Min.",2.72
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","GENDER","F",270
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","GENDER","M",102
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","NPI_n","Count",3
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","RACE","Black",3
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","RACE","Not Provided",23
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","RACE","Other",1
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","RACE","White",345
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","row_n","Count",890
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","zip_add_combination_n","Count",21
+"2. NPI/2.4 NPI_preventive_18.csv","preventive_18","3. df_geo/3.4 df_geo_preventive_18.RData","Preventive Medicine","2018","ZIP_n","Count",21
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","address_n","Count",1
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","AGE_RANGE_DFS","00 - 04",84
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","AGE_RANGE_DFS","05 - 09",7
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","AGE_RANGE_DFS","10 - 14",16
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","AGE_RANGE_DFS","15 - 19",49
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","AGE_RANGE_DFS","20 - 24",31
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","AGE_RANGE_DFS","25 - 29",32
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","AGE_RANGE_DFS","30 - 34",21
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","AGE_RANGE_DFS","35 - 39",18
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","AGE_RANGE_DFS","40 - 44",19
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","AGE_RANGE_DFS","45 - 49",13
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","AGE_RANGE_DFS","50 - 54",24
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","AGE_RANGE_DFS","55 - 59",19
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","AGE_RANGE_DFS","60 - 64",8
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","BEN_ID_n","Count",225
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","CLAIM_GUID_n","Count",341
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","Distance","1st Qu.",5.4
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","Distance","3rd Qu.",5.4
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","Distance","Max.",193.84
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","Distance","Mean",14.21
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","Distance","Median",5.4
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","Distance","Min.",5.4
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","Duration","1st Qu.",7.14
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","Duration","3rd Qu.",7.14
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","Duration","Max.",159.38
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","Duration","Mean",15.51
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","Duration","Median",7.14
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","Duration","Min.",7.14
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","GENDER","F",245
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","GENDER","M",96
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","NPI_n","Count",1
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","RACE","Not Provided",28
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","RACE","White",313
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","row_n","Count",788
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","zip_add_combination_n","Count",21
+"2. NPI/2.4 NPI_preventive_19.csv","preventive_19","3. df_geo/3.4 df_geo_preventive_19.RData","Preventive Medicine","2019","ZIP_n","Count",21
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","address_n","Count",4
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","AGE_RANGE_DFS","00 - 04",41
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","AGE_RANGE_DFS","05 - 09",3
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","AGE_RANGE_DFS","10 - 14",8
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","AGE_RANGE_DFS","15 - 19",22
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","AGE_RANGE_DFS","20 - 24",16
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","AGE_RANGE_DFS","25 - 29",16
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","AGE_RANGE_DFS","30 - 34",10
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","AGE_RANGE_DFS","35 - 39",9
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","AGE_RANGE_DFS","40 - 44",9
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","AGE_RANGE_DFS","45 - 49",5
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","AGE_RANGE_DFS","50 - 54",20
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","AGE_RANGE_DFS","55 - 59",21
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","AGE_RANGE_DFS","60 - 64",12
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","BEN_ID_n","Count",138
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","CLAIM_GUID_n","Count",192
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","Distance","1st Qu.",5.4
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","Distance","3rd Qu.",5.4
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","Distance","Max.",477.12
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","Distance","Mean",14.37
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","Distance","Median",5.4
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","Distance","Min.",5.4
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","Duration","1st Qu.",7.14
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","Duration","3rd Qu.",7.14
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","Duration","Max.",338.5
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","Duration","Mean",15.17
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","Duration","Median",7.14
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","Duration","Min.",7.14
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","GENDER","F",134
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","GENDER","M",58
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","NPI_n","Count",4
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","RACE","Not Provided",24
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","RACE","Other",5
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","RACE","White",163
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","row_n","Count",418
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","zip_add_combination_n","Count",17
+"2. NPI/2.4 NPI_preventive_20.csv","preventive_20","3. df_geo/3.4 df_geo_preventive_20.RData","Preventive Medicine","2020","ZIP_n","Count",17
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","address_n","Count",3
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","AGE_RANGE_DFS","00 - 04",3
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","AGE_RANGE_DFS","05 - 09",1
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","AGE_RANGE_DFS","10 - 14",4
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","AGE_RANGE_DFS","15 - 19",34
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","AGE_RANGE_DFS","20 - 24",14
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","AGE_RANGE_DFS","25 - 29",12
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","AGE_RANGE_DFS","30 - 34",14
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","AGE_RANGE_DFS","35 - 39",35
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","AGE_RANGE_DFS","40 - 44",30
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","AGE_RANGE_DFS","45 - 49",5
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","AGE_RANGE_DFS","50 - 54",5
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","AGE_RANGE_DFS","55 - 59",5
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","AGE_RANGE_DFS","60 - 64",4
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","BEN_ID_n","Count",95
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","CLAIM_GUID_n","Count",166
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","Distance","1st Qu.",5.4
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","Distance","3rd Qu.",53.55
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","Distance","Max.",350.41
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","Distance","Mean",34.74
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","Distance","Median",6.82
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","Distance","Min.",5.4
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","Duration","1st Qu.",7.14
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","Duration","3rd Qu.",50.76
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","Duration","Max.",258.26
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","Duration","Mean",31.32
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","Duration","Median",10.18
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","Duration","Min.",7.14
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","GENDER","F",97
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","GENDER","M",69
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","NPI_n","Count",3
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","RACE","Black",3
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","RACE","Not Provided",11
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","RACE","White",152
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","row_n","Count",262
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","zip_add_combination_n","Count",21
+"2. NPI/2.4 NPI_preventive_21.csv","preventive_21","3. df_geo/3.4 df_geo_preventive_21.RData","Preventive Medicine","2021","ZIP_n","Count",20
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","address_n","Count",4
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","AGE_RANGE_DFS","00 - 04",12
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","AGE_RANGE_DFS","05 - 09",4
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","AGE_RANGE_DFS","10 - 14",2
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","AGE_RANGE_DFS","15 - 19",83
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","AGE_RANGE_DFS","20 - 24",62
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","AGE_RANGE_DFS","25 - 29",189
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","AGE_RANGE_DFS","30 - 34",387
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","AGE_RANGE_DFS","35 - 39",510
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","AGE_RANGE_DFS","40 - 44",396
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","AGE_RANGE_DFS","45 - 49",265
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","AGE_RANGE_DFS","50 - 54",162
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","AGE_RANGE_DFS","55 - 59",80
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","AGE_RANGE_DFS","60 - 64",126
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","BEN_ID_n","Count",777
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","CLAIM_GUID_n","Count",2278
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","Distance","1st Qu.",19.93
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","Distance","3rd Qu.",171.67
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","Distance","Max.",2271.83
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","Distance","Mean",120.66
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","Distance","Median",134.82
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","Distance","Min.",3.55
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","Distance","NA's",13
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","Duration","1st Qu.",23.25
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","Duration","3rd Qu.",132.7
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","Duration","Max.",1444.07
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","Duration","Mean",93.79
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","Duration","Median",100.97
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","Duration","Min.",5.19
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","Duration","NA's",13
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","GENDER","F",1173
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","GENDER","M",1105
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","NPI_n","Count",4
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","RACE","Black",236
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","RACE","Not Provided",144
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","RACE","Other",23
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","RACE","White",1875
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","row_n","Count",3031
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","zip_add_combination_n","Count",215
+"2. NPI/2.4 NPI_preventive_22.csv","preventive_22","3. df_geo/3.4 df_geo_preventive_22.RData","Preventive Medicine","2022","ZIP_n","Count",196
